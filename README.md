@@ -39,3 +39,38 @@ Accessing the Load Balancer DNS shows different pages on refresh, proving traffi
 
 **Example outputs:**
 
+Hello from Day 3 ☁️
+This page is hosted on my EC2 instance.
+
+Hello from FormulaGeek EC2 Server - Day 4 🚀
+
+Project 2 - Nginx Running Successfully
+
+---
+
+## 📝 Screenshots
+
+Screenshots demonstrating configuration and outputs are available in the project folder under `Screenshots/`.
+
+---
+
+## 📂 Project Structure
+
+```bash
+├── Screenshots/  # Key screenshots for verification
+├── README.md     # This project documentation 
+└── LICENSE       # MIT License 
+```
+---
+
+## 👨‍💻 Author
+
+**Taimoor**  
+Aspiring DevOps & Cloud Engineer  
+GitHub: [taimoordevops](https://github.com/taimoordevops)  
+
+---
+
+## ⚠️ Disclaimer
+
+This project is for learning purposes only. Please clean up resources after testing to avoid AWS charges.
